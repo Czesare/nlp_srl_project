@@ -1,0 +1,538 @@
+[
+  {
+    "id": "cap1a_001",
+    "capability": 1,
+    "test": "core_arg0",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "committee",
+      "approved",
+      "the",
+      "new",
+      "policy",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 1,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap1b_001",
+    "capability": 1,
+    "test": "core_arg1",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "committee",
+      "approved",
+      "the",
+      "new",
+      "policy",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG1"
+  },
+  {
+    "id": "cap1a_002",
+    "capability": 1,
+    "test": "core_arg0",
+    "type": "MFT",
+    "sentence": [
+      "A",
+      "swarm",
+      "of",
+      "bees",
+      "attacked",
+      "the",
+      "intruder",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "target_index": 1,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap1b_002",
+    "capability": 1,
+    "test": "core_arg1",
+    "type": "MFT",
+    "sentence": [
+      "A",
+      "swarm",
+      "of",
+      "bees",
+      "attacked",
+      "the",
+      "intruder",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "target_index": 6,
+    "target_label": "ARG1"
+  },
+  {
+    "id": "cap1a_003",
+    "capability": 1,
+    "test": "core_arg0",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "engineer",
+      "designed",
+      "three",
+      "prototype",
+      "engines",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 1,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap1b_003",
+    "capability": 1,
+    "test": "core_arg1",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "engineer",
+      "designed",
+      "three",
+      "prototype",
+      "engines",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 4,
+    "target_label": "ARG1"
+  },
+  {
+    "id": "cap1a_004",
+    "capability": 1,
+    "test": "core_arg0",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "teacher",
+      "explained",
+      "the",
+      "complex",
+      "concept",
+      "clearly",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 1,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap1b_004",
+    "capability": 1,
+    "test": "core_arg1",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "teacher",
+      "explained",
+      "the",
+      "complex",
+      "concept",
+      "clearly",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG1"
+  },
+  {
+    "id": "cap1a_005",
+    "capability": 1,
+    "test": "core_arg0",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "dog",
+      "chased",
+      "the",
+      "red",
+      "ball",
+      "quickly",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 1,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap1b_005",
+    "capability": 1,
+    "test": "core_arg1",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "dog",
+      "chased",
+      "the",
+      "red",
+      "ball",
+      "quickly",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG1"
+  },
+  {
+    "id": "cap1a_006",
+    "capability": 1,
+    "test": "core_arg0",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "scientist",
+      "analyzed",
+      "the",
+      "data",
+      "meticulously",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 1,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap1b_006",
+    "capability": 1,
+    "test": "core_arg1",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "scientist",
+      "analyzed",
+      "the",
+      "data",
+      "meticulously",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 4,
+    "target_label": "ARG1"
+  },
+  {
+    "id": "cap1a_007",
+    "capability": 1,
+    "test": "core_arg0",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "firefighter",
+      "rescued",
+      "the",
+      "trapped",
+      "kitten",
+      "yesterday",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 1,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap1b_007",
+    "capability": 1,
+    "test": "core_arg1",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "firefighter",
+      "rescued",
+      "the",
+      "trapped",
+      "kitten",
+      "yesterday",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG1"
+  },
+  {
+    "id": "cap1a_008",
+    "capability": 1,
+    "test": "core_arg0",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "orchestra",
+      "performed",
+      "a",
+      "beautiful",
+      "symphony",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 1,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap1b_008",
+    "capability": 1,
+    "test": "core_arg1",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "orchestra",
+      "performed",
+      "a",
+      "beautiful",
+      "symphony",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG1"
+  },
+  {
+    "id": "cap1a_009",
+    "capability": 1,
+    "test": "core_arg0",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "robot",
+      "assembled",
+      "the",
+      "furniture",
+      "efficiently",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 1,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap1b_009",
+    "capability": 1,
+    "test": "core_arg1",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "robot",
+      "assembled",
+      "the",
+      "furniture",
+      "efficiently",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 4,
+    "target_label": "ARG1"
+  },
+  {
+    "id": "cap1a_010",
+    "capability": 1,
+    "test": "core_arg0",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "artist",
+      "painted",
+      "a",
+      "stunning",
+      "portrait",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 1,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap1b_010",
+    "capability": 1,
+    "test": "core_arg1",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "artist",
+      "painted",
+      "a",
+      "stunning",
+      "portrait",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG1"
+  }
+]

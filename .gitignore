@@ -1,0 +1,28 @@
+# ── Python ──
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# ── Data (too large, not yours to redistribute) ──
+data/
+
+# ── Model weights (host on Google Drive, link in notebook) ──
+a1/model/
+a2/srl-distilbert-model/
+
+# ── Personal notes (optional, remove these lines if you want them public) ──
+a1/A1_notes.md
+a2/a2_notes.md
+
+# ── macOS garbage ──
+.DS_Store
+__MACOSX/
+
+# ── Jupyter internals ──
+.ipynb_checkpoints/
+
+# ── HTML exports (optional, they're large and redundant with notebooks) ──
+a1/A1_SRL.html
+a2/A2_SRL_BERT.html

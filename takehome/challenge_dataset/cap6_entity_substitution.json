@@ -1,0 +1,518 @@
+[
+  {
+    "id": "cap6_001a",
+    "pair_id": "cap6_001",
+    "role": "common_name",
+    "capability": 6,
+    "test": "entity_substitution",
+    "type": "INV",
+    "sentence": [
+      "Alice",
+      "bought",
+      "a",
+      "new",
+      "car",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 0,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap6_001b",
+    "pair_id": "cap6_001",
+    "role": "rare_name",
+    "capability": 6,
+    "test": "entity_substitution",
+    "type": "INV",
+    "sentence": [
+      "Amara",
+      "bought",
+      "a",
+      "new",
+      "car",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 0,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap6_002a",
+    "pair_id": "cap6_002",
+    "role": "common_name",
+    "capability": 6,
+    "test": "entity_substitution",
+    "type": "INV",
+    "sentence": [
+      "Microsoft",
+      "released",
+      "the",
+      "new",
+      "update",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 0,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap6_002b",
+    "pair_id": "cap6_002",
+    "role": "rare_name",
+    "capability": 6,
+    "test": "entity_substitution",
+    "type": "INV",
+    "sentence": [
+      "Fenghua",
+      "released",
+      "the",
+      "new",
+      "update",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 0,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap6_003a",
+    "pair_id": "cap6_003",
+    "role": "common_name",
+    "capability": 6,
+    "test": "entity_substitution",
+    "type": "INV",
+    "sentence": [
+      "Sarah",
+      "cooked",
+      "a",
+      "delicious",
+      "meal",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 0,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap6_003b",
+    "pair_id": "cap6_003",
+    "role": "rare_name",
+    "capability": 6,
+    "test": "entity_substitution",
+    "type": "INV",
+    "sentence": [
+      "Tariq",
+      "cooked",
+      "a",
+      "delicious",
+      "meal",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 0,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap6_004a",
+    "pair_id": "cap6_004",
+    "role": "common_name",
+    "capability": 6,
+    "test": "entity_substitution",
+    "type": "INV",
+    "sentence": [
+      "Tom",
+      "celebrated",
+      "their",
+      "victory",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "target_index": 0,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap6_004b",
+    "pair_id": "cap6_004",
+    "role": "rare_name",
+    "capability": 6,
+    "test": "entity_substitution",
+    "type": "INV",
+    "sentence": [
+      "Zbigniew",
+      "celebrated",
+      "their",
+      "victory",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "target_index": 0,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap6_005a",
+    "pair_id": "cap6_005",
+    "role": "common_name",
+    "capability": 6,
+    "test": "entity_substitution",
+    "type": "INV",
+    "sentence": [
+      "Google",
+      "acquired",
+      "a",
+      "small",
+      "startup",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 0,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap6_005b",
+    "pair_id": "cap6_005",
+    "role": "rare_name",
+    "capability": 6,
+    "test": "entity_substitution",
+    "type": "INV",
+    "sentence": [
+      "Weiming",
+      "acquired",
+      "a",
+      "small",
+      "startup",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 0,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap6_006a",
+    "pair_id": "cap6_006",
+    "role": "common_name",
+    "capability": 6,
+    "test": "entity_substitution",
+    "type": "INV",
+    "sentence": [
+      "Emma",
+      "wrote",
+      "a",
+      "fascinating",
+      "book",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 0,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap6_006b",
+    "pair_id": "cap6_006",
+    "role": "rare_name",
+    "capability": 6,
+    "test": "entity_substitution",
+    "type": "INV",
+    "sentence": [
+      "Xiulan",
+      "wrote",
+      "a",
+      "fascinating",
+      "book",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 0,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap6_007a",
+    "pair_id": "cap6_007",
+    "role": "common_name",
+    "capability": 6,
+    "test": "entity_substitution",
+    "type": "INV",
+    "sentence": [
+      "Lucas",
+      "designed",
+      "a",
+      "beautiful",
+      "garden",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 0,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap6_007b",
+    "pair_id": "cap6_007",
+    "role": "rare_name",
+    "capability": 6,
+    "test": "entity_substitution",
+    "type": "INV",
+    "sentence": [
+      "Suhaib",
+      "designed",
+      "a",
+      "beautiful",
+      "garden",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 0,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap6_008a",
+    "pair_id": "cap6_008",
+    "role": "common_name",
+    "capability": 6,
+    "test": "entity_substitution",
+    "type": "INV",
+    "sentence": [
+      "Jessica",
+      "painted",
+      "a",
+      "landscape",
+      "portrait",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 0,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap6_008b",
+    "pair_id": "cap6_008",
+    "role": "rare_name",
+    "capability": 6,
+    "test": "entity_substitution",
+    "type": "INV",
+    "sentence": [
+      "Przemek",
+      "painted",
+      "a",
+      "landscape",
+      "portrait",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 0,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap6_009a",
+    "pair_id": "cap6_009",
+    "role": "common_name",
+    "capability": 6,
+    "test": "entity_substitution",
+    "type": "INV",
+    "sentence": [
+      "Amazon",
+      "delivered",
+      "the",
+      "package",
+      "quickly",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 0,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap6_009b",
+    "pair_id": "cap6_009",
+    "role": "rare_name",
+    "capability": 6,
+    "test": "entity_substitution",
+    "type": "INV",
+    "sentence": [
+      "Nourhan",
+      "delivered",
+      "the",
+      "package",
+      "quickly",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 0,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap6_010a",
+    "pair_id": "cap6_010",
+    "role": "common_name",
+    "capability": 6,
+    "test": "entity_substitution",
+    "type": "INV",
+    "sentence": [
+      "David",
+      "fixed",
+      "the",
+      "leaky",
+      "faucet",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 0,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap6_010b",
+    "pair_id": "cap6_010",
+    "role": "rare_name",
+    "capability": 6,
+    "test": "entity_substitution",
+    "type": "INV",
+    "sentence": [
+      "Kofi",
+      "fixed",
+      "the",
+      "leaky",
+      "faucet",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 0,
+    "target_label": "ARG0"
+  }
+]

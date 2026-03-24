@@ -1,0 +1,410 @@
+[
+  {
+    "id": "cap3_mnr_001",
+    "capability": 3,
+    "test": "pp_attachment_mnr",
+    "type": "MFT",
+    "sentence": [
+      "He",
+      "cut",
+      "the",
+      "paper",
+      "with",
+      "scissors",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARGM-MNR"
+  },
+  {
+    "id": "cap3_mnr_002",
+    "capability": 3,
+    "test": "pp_attachment_mnr",
+    "type": "MFT",
+    "sentence": [
+      "They",
+      "opened",
+      "the",
+      "box",
+      "with",
+      "a",
+      "crowbar",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 6,
+    "target_label": "ARGM-MNR"
+  },
+  {
+    "id": "cap3_mnr_003",
+    "capability": 3,
+    "test": "pp_attachment_mnr",
+    "type": "MFT",
+    "sentence": [
+      "She",
+      "wrote",
+      "the",
+      "letter",
+      "with",
+      "a",
+      "pen",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 6,
+    "target_label": "ARGM-MNR"
+  },
+  {
+    "id": "cap3_mnr_004",
+    "capability": 3,
+    "test": "pp_attachment_mnr",
+    "type": "MFT",
+    "sentence": [
+      "We",
+      "fixed",
+      "the",
+      "leak",
+      "with",
+      "duct",
+      "tape",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 6,
+    "target_label": "ARGM-MNR"
+  },
+  {
+    "id": "cap3_mnr_005",
+    "capability": 3,
+    "test": "pp_attachment_mnr",
+    "type": "MFT",
+    "sentence": [
+      "He",
+      "dug",
+      "the",
+      "hole",
+      "with",
+      "a",
+      "shovel",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 6,
+    "target_label": "ARGM-MNR"
+  },
+  {
+    "id": "cap3_com_001",
+    "capability": 3,
+    "test": "pp_attachment_com",
+    "type": "MFT",
+    "sentence": [
+      "She",
+      "walked",
+      "to",
+      "the",
+      "park",
+      "with",
+      "her",
+      "brother",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 7,
+    "target_label": "ARGM-COM"
+  },
+  {
+    "id": "cap3_com_002",
+    "capability": 3,
+    "test": "pp_attachment_com",
+    "type": "MFT",
+    "sentence": [
+      "They",
+      "celebrated",
+      "the",
+      "holiday",
+      "with",
+      "friends",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARGM-COM"
+  },
+  {
+    "id": "cap3_com_003",
+    "capability": 3,
+    "test": "pp_attachment_com",
+    "type": "MFT",
+    "sentence": [
+      "He",
+      "ate",
+      "dinner",
+      "with",
+      "his",
+      "colleague",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARGM-COM"
+  },
+  {
+    "id": "cap3_com_004",
+    "capability": 3,
+    "test": "pp_attachment_com",
+    "type": "MFT",
+    "sentence": [
+      "We",
+      "traveled",
+      "to",
+      "Italy",
+      "with",
+      "our",
+      "family",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 6,
+    "target_label": "ARGM-COM"
+  },
+  {
+    "id": "cap3_com_005",
+    "capability": 3,
+    "test": "pp_attachment_com",
+    "type": "MFT",
+    "sentence": [
+      "She",
+      "worked",
+      "on",
+      "the",
+      "project",
+      "with",
+      "a",
+      "team",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 7,
+    "target_label": "ARGM-COM"
+  },
+  {
+    "id": "cap3_arg2_001",
+    "capability": 3,
+    "test": "pp_attachment_arg2",
+    "type": "MFT",
+    "sentence": [
+      "She",
+      "filled",
+      "the",
+      "bottle",
+      "with",
+      "juice",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG2"
+  },
+  {
+    "id": "cap3_arg2_002",
+    "capability": 3,
+    "test": "pp_attachment_arg2",
+    "type": "MFT",
+    "sentence": [
+      "They",
+      "loaded",
+      "the",
+      "truck",
+      "with",
+      "furniture",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG2"
+  },
+  {
+    "id": "cap3_arg2_003",
+    "capability": 3,
+    "test": "pp_attachment_arg2",
+    "type": "MFT",
+    "sentence": [
+      "He",
+      "sprayed",
+      "the",
+      "plants",
+      "with",
+      "water",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG2"
+  },
+  {
+    "id": "cap3_arg2_004",
+    "capability": 3,
+    "test": "pp_attachment_arg2",
+    "type": "MFT",
+    "sentence": [
+      "She",
+      "covered",
+      "the",
+      "cake",
+      "with",
+      "icing",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG2"
+  },
+  {
+    "id": "cap3_arg2_005",
+    "capability": 3,
+    "test": "pp_attachment_arg2",
+    "type": "MFT",
+    "sentence": [
+      "We",
+      "packed",
+      "the",
+      "suitcase",
+      "with",
+      "clothes",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG2"
+  }
+]

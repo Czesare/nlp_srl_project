@@ -1,0 +1,10 @@
+capability	test	type	n	failure_rate_a1	failure_rate_a2
+cap1	core_arg0	MFT	10	0.1	0.0
+cap1	core_arg1	MFT	10	0.1	0.1
+cap2	voice_alternation	INV	20	0.05	0.0
+cap3	pp_attachment_arg2	MFT	5	0.0	0.2
+cap3	pp_attachment_com	MFT	5	0.8	0.2
+cap3	pp_attachment_mnr	MFT	5	1.0	0.0
+cap4	argm_gol_detection	MFT	10	1.0	1.0
+cap5	spray_load_alternation	INV	20	0.15	0.05
+cap6	entity_substitution	INV	20	0.0	0.0

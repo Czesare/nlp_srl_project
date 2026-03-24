@@ -1,0 +1,562 @@
+[
+  {
+    "id": "cap5_001a",
+    "pair_id": "cap5_001",
+    "role": "location_as_object",
+    "capability": 5,
+    "test": "spray_load_alternation",
+    "type": "INV",
+    "sentence": [
+      "He",
+      "loaded",
+      "the",
+      "truck",
+      "with",
+      "boxes",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG2"
+  },
+  {
+    "id": "cap5_001b",
+    "pair_id": "cap5_001",
+    "role": "theme_as_object",
+    "capability": 5,
+    "test": "spray_load_alternation",
+    "type": "INV",
+    "sentence": [
+      "He",
+      "loaded",
+      "boxes",
+      "into",
+      "the",
+      "truck",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 2,
+    "target_label": "ARG1"
+  },
+  {
+    "id": "cap5_002a",
+    "pair_id": "cap5_002",
+    "role": "location_as_object",
+    "capability": 5,
+    "test": "spray_load_alternation",
+    "type": "INV",
+    "sentence": [
+      "They",
+      "filled",
+      "the",
+      "bottle",
+      "with",
+      "water",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG2"
+  },
+  {
+    "id": "cap5_002b",
+    "pair_id": "cap5_002",
+    "role": "theme_as_object",
+    "capability": 5,
+    "test": "spray_load_alternation",
+    "type": "INV",
+    "sentence": [
+      "They",
+      "poured",
+      "water",
+      "into",
+      "the",
+      "bottle",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 2,
+    "target_label": "ARG1"
+  },
+  {
+    "id": "cap5_003a",
+    "pair_id": "cap5_003",
+    "role": "location_as_object",
+    "capability": 5,
+    "test": "spray_load_alternation",
+    "type": "INV",
+    "sentence": [
+      "She",
+      "covered",
+      "the",
+      "cake",
+      "with",
+      "frosting",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG2"
+  },
+  {
+    "id": "cap5_003b",
+    "pair_id": "cap5_003",
+    "role": "theme_as_object",
+    "capability": 5,
+    "test": "spray_load_alternation",
+    "type": "INV",
+    "sentence": [
+      "She",
+      "covered",
+      "frosting",
+      "onto",
+      "the",
+      "cake",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 2,
+    "target_label": "ARG1"
+  },
+  {
+    "id": "cap5_004a",
+    "pair_id": "cap5_004",
+    "role": "location_as_object",
+    "capability": 5,
+    "test": "spray_load_alternation",
+    "type": "INV",
+    "sentence": [
+      "He",
+      "packed",
+      "the",
+      "suitcase",
+      "with",
+      "clothes",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG2"
+  },
+  {
+    "id": "cap5_004b",
+    "pair_id": "cap5_004",
+    "role": "theme_as_object",
+    "capability": 5,
+    "test": "spray_load_alternation",
+    "type": "INV",
+    "sentence": [
+      "He",
+      "packed",
+      "clothes",
+      "into",
+      "the",
+      "suitcase",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 2,
+    "target_label": "ARG1"
+  },
+  {
+    "id": "cap5_005a",
+    "pair_id": "cap5_005",
+    "role": "location_as_object",
+    "capability": 5,
+    "test": "spray_load_alternation",
+    "type": "INV",
+    "sentence": [
+      "They",
+      "stuffed",
+      "the",
+      "pillow",
+      "with",
+      "feathers",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG2"
+  },
+  {
+    "id": "cap5_005b",
+    "pair_id": "cap5_005",
+    "role": "theme_as_object",
+    "capability": 5,
+    "test": "spray_load_alternation",
+    "type": "INV",
+    "sentence": [
+      "They",
+      "stuffed",
+      "feathers",
+      "into",
+      "the",
+      "pillow",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 2,
+    "target_label": "ARG1"
+  },
+  {
+    "id": "cap5_006a",
+    "pair_id": "cap5_006",
+    "role": "location_as_object",
+    "capability": 5,
+    "test": "spray_load_alternation",
+    "type": "INV",
+    "sentence": [
+      "She",
+      "piled",
+      "the",
+      "table",
+      "with",
+      "books",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG2"
+  },
+  {
+    "id": "cap5_006b",
+    "pair_id": "cap5_006",
+    "role": "theme_as_object",
+    "capability": 5,
+    "test": "spray_load_alternation",
+    "type": "INV",
+    "sentence": [
+      "She",
+      "piled",
+      "books",
+      "onto",
+      "the",
+      "table",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 2,
+    "target_label": "ARG1"
+  },
+  {
+    "id": "cap5_007a",
+    "pair_id": "cap5_007",
+    "role": "location_as_object",
+    "capability": 5,
+    "test": "spray_load_alternation",
+    "type": "INV",
+    "sentence": [
+      "He",
+      "flooded",
+      "the",
+      "garden",
+      "with",
+      "water",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG2"
+  },
+  {
+    "id": "cap5_007b",
+    "pair_id": "cap5_007",
+    "role": "theme_as_object",
+    "capability": 5,
+    "test": "spray_load_alternation",
+    "type": "INV",
+    "sentence": [
+      "He",
+      "poured",
+      "water",
+      "into",
+      "the",
+      "garden",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 2,
+    "target_label": "ARG1"
+  },
+  {
+    "id": "cap5_008a",
+    "pair_id": "cap5_008",
+    "role": "location_as_object",
+    "capability": 5,
+    "test": "spray_load_alternation",
+    "type": "INV",
+    "sentence": [
+      "She",
+      "coated",
+      "the",
+      "roof",
+      "with",
+      "tar",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG2"
+  },
+  {
+    "id": "cap5_008b",
+    "pair_id": "cap5_008",
+    "role": "theme_as_object",
+    "capability": 5,
+    "test": "spray_load_alternation",
+    "type": "INV",
+    "sentence": [
+      "She",
+      "coated",
+      "tar",
+      "onto",
+      "the",
+      "roof",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 2,
+    "target_label": "ARG1"
+  },
+  {
+    "id": "cap5_009a",
+    "pair_id": "cap5_009",
+    "role": "location_as_object",
+    "capability": 5,
+    "test": "spray_load_alternation",
+    "type": "INV",
+    "sentence": [
+      "They",
+      "smeared",
+      "the",
+      "bread",
+      "with",
+      "butter",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG2"
+  },
+  {
+    "id": "cap5_009b",
+    "pair_id": "cap5_009",
+    "role": "theme_as_object",
+    "capability": 5,
+    "test": "spray_load_alternation",
+    "type": "INV",
+    "sentence": [
+      "They",
+      "smeared",
+      "butter",
+      "onto",
+      "the",
+      "bread",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 2,
+    "target_label": "ARG1"
+  },
+  {
+    "id": "cap5_010a",
+    "pair_id": "cap5_010",
+    "role": "location_as_object",
+    "capability": 5,
+    "test": "spray_load_alternation",
+    "type": "INV",
+    "sentence": [
+      "He",
+      "sprayed",
+      "the",
+      "car",
+      "with",
+      "water",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARG2"
+  },
+  {
+    "id": "cap5_010b",
+    "pair_id": "cap5_010",
+    "role": "theme_as_object",
+    "capability": 5,
+    "test": "spray_load_alternation",
+    "type": "INV",
+    "sentence": [
+      "He",
+      "sprayed",
+      "water",
+      "onto",
+      "the",
+      "car",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 2,
+    "target_label": "ARG1"
+  }
+]

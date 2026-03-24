@@ -1,0 +1,10 @@
+# data & evaluation
+pandas
+joblib
+
+# deep learning
+torch
+transformers
+
+# openai (used for challenge dataset generation)
+openai

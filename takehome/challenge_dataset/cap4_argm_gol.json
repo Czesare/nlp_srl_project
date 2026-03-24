@@ -1,0 +1,310 @@
+[
+  {
+    "id": "cap4_002",
+    "capability": 4,
+    "test": "argm_gol_detection",
+    "type": "MFT",
+    "sentence": [
+      "They",
+      "drove",
+      "to",
+      "the",
+      "airport",
+      "for",
+      "their",
+      "flight",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 4,
+    "target_label": "ARGM-GOL"
+  },
+  {
+    "id": "cap4_003",
+    "capability": 4,
+    "test": "argm_gol_detection",
+    "type": "MFT",
+    "sentence": [
+      "She",
+      "ran",
+      "toward",
+      "the",
+      "park",
+      "to",
+      "meet",
+      "friends",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 4,
+    "target_label": "ARGM-GOL"
+  },
+  {
+    "id": "cap4_004",
+    "capability": 4,
+    "test": "argm_gol_detection",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "courier",
+      "delivered",
+      "the",
+      "letter",
+      "to",
+      "the",
+      "office",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 7,
+    "target_label": "ARGM-GOL"
+  },
+  {
+    "id": "cap4_005",
+    "capability": 4,
+    "test": "argm_gol_detection",
+    "type": "MFT",
+    "sentence": [
+      "We",
+      "flew",
+      "into",
+      "New",
+      "York",
+      "City",
+      "last",
+      "night",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARGM-GOL"
+  },
+  {
+    "id": "cap4_006",
+    "capability": 4,
+    "test": "argm_gol_detection",
+    "type": "MFT",
+    "sentence": [
+      "He",
+      "swam",
+      "towards",
+      "the",
+      "shore",
+      "quickly",
+      "to",
+      "avoid",
+      "the",
+      "storm",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 4,
+    "target_label": "ARGM-GOL"
+  },
+  {
+    "id": "cap4_007",
+    "capability": 4,
+    "test": "argm_gol_detection",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "shipment",
+      "was",
+      "sent",
+      "to",
+      "the",
+      "warehouse",
+      "yesterday",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 6,
+    "target_label": "ARGM-GOL"
+  },
+  {
+    "id": "cap4_008",
+    "capability": 4,
+    "test": "argm_gol_detection",
+    "type": "MFT",
+    "sentence": [
+      "I",
+      "moved",
+      "the",
+      "furniture",
+      "into",
+      "the",
+      "living",
+      "room",
+      "today",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 7,
+    "target_label": "ARGM-GOL"
+  },
+  {
+    "id": "cap4_009",
+    "capability": 4,
+    "test": "argm_gol_detection",
+    "type": "MFT",
+    "sentence": [
+      "The",
+      "troops",
+      "marched",
+      "toward",
+      "the",
+      "fortress",
+      "at",
+      "dawn",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 5,
+    "target_label": "ARGM-GOL"
+  },
+  {
+    "id": "cap4_010",
+    "capability": 4,
+    "test": "argm_gol_detection",
+    "type": "MFT",
+    "sentence": [
+      "She",
+      "climbed",
+      "onto",
+      "the",
+      "roof",
+      "to",
+      "fix",
+      "the",
+      "antenna",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 4,
+    "target_label": "ARGM-GOL"
+  },
+  {
+    "id": "cap4_011",
+    "capability": 4,
+    "test": "argm_gol_detection",
+    "type": "MFT",
+    "sentence": [
+      "They",
+      "rushed",
+      "to",
+      "the",
+      "hospital",
+      "after",
+      "the",
+      "accident",
+      "."
+    ],
+    "predicate": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 4,
+    "target_label": "ARGM-GOL"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "id": "cap2_001a",
+    "pair_id": "cap2_001",
+    "role": "active",
+    "capability": 2,
+    "test": "voice_alternation",
+    "type": "INV",
+    "sentence": [
+      "The",
+      "teacher",
+      "praised",
+      "the",
+      "student",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "target_index": 1,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap2_001b",
+    "pair_id": "cap2_001",
+    "role": "passive",
+    "capability": 2,
+    "test": "voice_alternation",
+    "type": "INV",
+    "sentence": [
+      "The",
+      "student",
+      "was",
+      "praised",
+      "by",
+      "the",
+      "teacher",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 6,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap2_002a",
+    "pair_id": "cap2_002",
+    "role": "active",
+    "capability": 2,
+    "test": "voice_alternation",
+    "type": "INV",
+    "sentence": [
+      "The",
+      "manager",
+      "approved",
+      "the",
+      "budget",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "target_index": 1,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap2_002b",
+    "pair_id": "cap2_002",
+    "role": "passive",
+    "capability": 2,
+    "test": "voice_alternation",
+    "type": "INV",
+    "sentence": [
+      "The",
+      "budget",
+      "was",
+      "approved",
+      "by",
+      "the",
+      "manager",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 6,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap2_003a",
+    "pair_id": "cap2_003",
+    "role": "active",
+    "capability": 2,
+    "test": "voice_alternation",
+    "type": "INV",
+    "sentence": [
+      "The",
+      "artist",
+      "painted",
+      "a",
+      "mural",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "target_index": 1,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap2_003b",
+    "pair_id": "cap2_003",
+    "role": "passive",
+    "capability": 2,
+    "test": "voice_alternation",
+    "type": "INV",
+    "sentence": [
+      "A",
+      "mural",
+      "was",
+      "painted",
+      "by",
+      "the",
+      "artist",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 6,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap2_004a",
+    "pair_id": "cap2_004",
+    "role": "active",
+    "capability": 2,
+    "test": "voice_alternation",
+    "type": "INV",
+    "sentence": [
+      "The",
+      "scientist",
+      "discovered",
+      "a",
+      "cure",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "target_index": 1,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap2_004b",
+    "pair_id": "cap2_004",
+    "role": "passive",
+    "capability": 2,
+    "test": "voice_alternation",
+    "type": "INV",
+    "sentence": [
+      "A",
+      "cure",
+      "was",
+      "discovered",
+      "by",
+      "the",
+      "scientist",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 6,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap2_005a",
+    "pair_id": "cap2_005",
+    "role": "active",
+    "capability": 2,
+    "test": "voice_alternation",
+    "type": "INV",
+    "sentence": [
+      "The",
+      "author",
+      "wrote",
+      "a",
+      "novel",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "target_index": 1,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap2_005b",
+    "pair_id": "cap2_005",
+    "role": "passive",
+    "capability": 2,
+    "test": "voice_alternation",
+    "type": "INV",
+    "sentence": [
+      "A",
+      "novel",
+      "was",
+      "written",
+      "by",
+      "the",
+      "author",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 6,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap2_006a",
+    "pair_id": "cap2_006",
+    "role": "active",
+    "capability": 2,
+    "test": "voice_alternation",
+    "type": "INV",
+    "sentence": [
+      "The",
+      "company",
+      "launched",
+      "a",
+      "product",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "target_index": 1,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap2_006b",
+    "pair_id": "cap2_006",
+    "role": "passive",
+    "capability": 2,
+    "test": "voice_alternation",
+    "type": "INV",
+    "sentence": [
+      "A",
+      "product",
+      "was",
+      "launched",
+      "by",
+      "the",
+      "company",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 6,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap2_007a",
+    "pair_id": "cap2_007",
+    "role": "active",
+    "capability": 2,
+    "test": "voice_alternation",
+    "type": "INV",
+    "sentence": [
+      "The",
+      "team",
+      "won",
+      "the",
+      "championship",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "target_index": 1,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap2_007b",
+    "pair_id": "cap2_007",
+    "role": "passive",
+    "capability": 2,
+    "test": "voice_alternation",
+    "type": "INV",
+    "sentence": [
+      "The",
+      "championship",
+      "was",
+      "won",
+      "by",
+      "the",
+      "team",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 6,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap2_008a",
+    "pair_id": "cap2_008",
+    "role": "active",
+    "capability": 2,
+    "test": "voice_alternation",
+    "type": "INV",
+    "sentence": [
+      "The",
+      "director",
+      "produced",
+      "a",
+      "film",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "target_index": 1,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap2_008b",
+    "pair_id": "cap2_008",
+    "role": "passive",
+    "capability": 2,
+    "test": "voice_alternation",
+    "type": "INV",
+    "sentence": [
+      "A",
+      "film",
+      "was",
+      "produced",
+      "by",
+      "the",
+      "director",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 6,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap2_009a",
+    "pair_id": "cap2_009",
+    "role": "active",
+    "capability": 2,
+    "test": "voice_alternation",
+    "type": "INV",
+    "sentence": [
+      "The",
+      "lawyer",
+      "won",
+      "the",
+      "case",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "target_index": 1,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap2_009b",
+    "pair_id": "cap2_009",
+    "role": "passive",
+    "capability": 2,
+    "test": "voice_alternation",
+    "type": "INV",
+    "sentence": [
+      "The",
+      "case",
+      "was",
+      "won",
+      "by",
+      "the",
+      "lawyer",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 6,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap2_010a",
+    "pair_id": "cap2_010",
+    "role": "active",
+    "capability": 2,
+    "test": "voice_alternation",
+    "type": "INV",
+    "sentence": [
+      "The",
+      "engineer",
+      "designed",
+      "the",
+      "bridge",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "target_index": 1,
+    "target_label": "ARG0"
+  },
+  {
+    "id": "cap2_010b",
+    "pair_id": "cap2_010",
+    "role": "passive",
+    "capability": 2,
+    "test": "voice_alternation",
+    "type": "INV",
+    "sentence": [
+      "The",
+      "bridge",
+      "was",
+      "designed",
+      "by",
+      "the",
+      "engineer",
+      "."
+    ],
+    "predicate": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "target_index": 6,
+    "target_label": "ARG0"
+  }
+]

@@ -1,0 +1,106 @@
+capability	id	type	test	pair_id	role	sentence	target_token	target_label	pred_a1	pass_a1
+cap1	cap1a_001	MFT	core_arg0			The committee approved the new policy .	committee	ARG0	ARG0	True
+cap1	cap1b_001	MFT	core_arg1			The committee approved the new policy .	policy	ARG1	ARG1	True
+cap1	cap1a_002	MFT	core_arg0			A swarm of bees attacked the intruder .	swarm	ARG0	ARG0	True
+cap1	cap1b_002	MFT	core_arg1			A swarm of bees attacked the intruder .	intruder	ARG1	ARG1	True
+cap1	cap1a_003	MFT	core_arg0			The engineer designed three prototype engines .	engineer	ARG0	ARG1	False
+cap1	cap1b_003	MFT	core_arg1			The engineer designed three prototype engines .	prototype	ARG1	O	False
+cap1	cap1a_004	MFT	core_arg0			The teacher explained the complex concept clearly .	teacher	ARG0	ARG0	True
+cap1	cap1b_004	MFT	core_arg1			The teacher explained the complex concept clearly .	concept	ARG1	ARG1	True
+cap1	cap1a_005	MFT	core_arg0			The dog chased the red ball quickly .	dog	ARG0	ARG0	True
+cap1	cap1b_005	MFT	core_arg1			The dog chased the red ball quickly .	ball	ARG1	ARG1	True
+cap1	cap1a_006	MFT	core_arg0			The scientist analyzed the data meticulously .	scientist	ARG0	ARG0	True
+cap1	cap1b_006	MFT	core_arg1			The scientist analyzed the data meticulously .	data	ARG1	ARG1	True
+cap1	cap1a_007	MFT	core_arg0			The firefighter rescued the trapped kitten yesterday .	firefighter	ARG0	ARG0	True
+cap1	cap1b_007	MFT	core_arg1			The firefighter rescued the trapped kitten yesterday .	kitten	ARG1	ARG1	True
+cap1	cap1a_008	MFT	core_arg0			The orchestra performed a beautiful symphony .	orchestra	ARG0	ARG0	True
+cap1	cap1b_008	MFT	core_arg1			The orchestra performed a beautiful symphony .	symphony	ARG1	ARG1	True
+cap1	cap1a_009	MFT	core_arg0			The robot assembled the furniture efficiently .	robot	ARG0	ARG0	True
+cap1	cap1b_009	MFT	core_arg1			The robot assembled the furniture efficiently .	furniture	ARG1	ARG1	True
+cap1	cap1a_010	MFT	core_arg0			The artist painted a stunning portrait .	artist	ARG0	ARG0	True
+cap1	cap1b_010	MFT	core_arg1			The artist painted a stunning portrait .	portrait	ARG1	ARG1	True
+cap2	cap2_001a	INV	voice_alternation	cap2_001	active	The teacher praised the student .	teacher	ARG0	ARG0	True
+cap2	cap2_001b	INV	voice_alternation	cap2_001	passive	The student was praised by the teacher .	teacher	ARG0	ARG0	True
+cap2	cap2_002a	INV	voice_alternation	cap2_002	active	The manager approved the budget .	manager	ARG0	ARG0	True
+cap2	cap2_002b	INV	voice_alternation	cap2_002	passive	The budget was approved by the manager .	manager	ARG0	ARG0	True
+cap2	cap2_003a	INV	voice_alternation	cap2_003	active	The artist painted a mural .	artist	ARG0	ARG0	True
+cap2	cap2_003b	INV	voice_alternation	cap2_003	passive	A mural was painted by the artist .	artist	ARG0	ARG0	True
+cap2	cap2_004a	INV	voice_alternation	cap2_004	active	The scientist discovered a cure .	scientist	ARG0	ARG0	True
+cap2	cap2_004b	INV	voice_alternation	cap2_004	passive	A cure was discovered by the scientist .	scientist	ARG0	ARG0	True
+cap2	cap2_005a	INV	voice_alternation	cap2_005	active	The author wrote a novel .	author	ARG0	ARG0	True
+cap2	cap2_005b	INV	voice_alternation	cap2_005	passive	A novel was written by the author .	author	ARG0	ARG0	True
+cap2	cap2_006a	INV	voice_alternation	cap2_006	active	The company launched a product .	company	ARG0	ARG0	True
+cap2	cap2_006b	INV	voice_alternation	cap2_006	passive	A product was launched by the company .	company	ARG0	ARG0	True
+cap2	cap2_007a	INV	voice_alternation	cap2_007	active	The team won the championship .	team	ARG0	ARG0	True
+cap2	cap2_007b	INV	voice_alternation	cap2_007	passive	The championship was won by the team .	team	ARG0	ARG0	True
+cap2	cap2_008a	INV	voice_alternation	cap2_008	active	The director produced a film .	director	ARG0	ARG0	True
+cap2	cap2_008b	INV	voice_alternation	cap2_008	passive	A film was produced by the director .	director	ARG0	ARG0	True
+cap2	cap2_009a	INV	voice_alternation	cap2_009	active	The lawyer won the case .	lawyer	ARG0	ARG0	True
+cap2	cap2_009b	INV	voice_alternation	cap2_009	passive	The case was won by the lawyer .	lawyer	ARG0	ARG0	True
+cap2	cap2_010a	INV	voice_alternation	cap2_010	active	The engineer designed the bridge .	engineer	ARG0	ARG1	False
+cap2	cap2_010b	INV	voice_alternation	cap2_010	passive	The bridge was designed by the engineer .	engineer	ARG0	ARG0	True
+cap3	cap3_mnr_001	MFT	pp_attachment_mnr			He cut the paper with scissors .	scissors	ARGM-MNR	ARG1	False
+cap3	cap3_mnr_002	MFT	pp_attachment_mnr			They opened the box with a crowbar .	crowbar	ARGM-MNR	ARG2	False
+cap3	cap3_mnr_003	MFT	pp_attachment_mnr			She wrote the letter with a pen .	pen	ARGM-MNR	ARGM-LOC	False
+cap3	cap3_mnr_004	MFT	pp_attachment_mnr			We fixed the leak with duct tape .	tape	ARGM-MNR	O	False
+cap3	cap3_mnr_005	MFT	pp_attachment_mnr			He dug the hole with a shovel .	shovel	ARGM-MNR	ARG1	False
+cap3	cap3_com_001	MFT	pp_attachment_com			She walked to the park with her brother .	brother	ARGM-COM	ARG2	False
+cap3	cap3_com_002	MFT	pp_attachment_com			They celebrated the holiday with friends .	friends	ARGM-COM	ARG2	False
+cap3	cap3_com_003	MFT	pp_attachment_com			He ate dinner with his colleague .	colleague	ARGM-COM	ARGM-LOC	False
+cap3	cap3_com_004	MFT	pp_attachment_com			We traveled to Italy with our family .	family	ARGM-COM	ARGM-COM	True
+cap3	cap3_com_005	MFT	pp_attachment_com			She worked on the project with a team .	team	ARGM-COM	ARG2	False
+cap3	cap3_arg2_001	MFT	pp_attachment_arg2			She filled the bottle with juice .	juice	ARG2	ARG2	True
+cap3	cap3_arg2_002	MFT	pp_attachment_arg2			They loaded the truck with furniture .	furniture	ARG2	ARG2	True
+cap3	cap3_arg2_003	MFT	pp_attachment_arg2			He sprayed the plants with water .	water	ARG2	ARG2	True
+cap3	cap3_arg2_004	MFT	pp_attachment_arg2			She covered the cake with icing .	icing	ARG2	ARG2	True
+cap3	cap3_arg2_005	MFT	pp_attachment_arg2			We packed the suitcase with clothes .	clothes	ARG2	ARG2	True
+cap4	cap4_002	MFT	argm_gol_detection			They drove to the airport for their flight .	airport	ARGM-GOL	ARGM-LOC	False
+cap4	cap4_003	MFT	argm_gol_detection			She ran toward the park to meet friends .	park	ARGM-GOL	ARG1	False
+cap4	cap4_004	MFT	argm_gol_detection			The courier delivered the letter to the office .	office	ARGM-GOL	ARG2	False
+cap4	cap4_005	MFT	argm_gol_detection			We flew into New York City last night .	City	ARGM-GOL	ARGM-DIR	False
+cap4	cap4_006	MFT	argm_gol_detection			He swam towards the shore quickly to avoid the storm .	shore	ARGM-GOL	ARG1	False
+cap4	cap4_007	MFT	argm_gol_detection			The shipment was sent to the warehouse yesterday .	warehouse	ARGM-GOL	ARG2	False
+cap4	cap4_008	MFT	argm_gol_detection			I moved the furniture into the living room today .	room	ARGM-GOL	ARG2	False
+cap4	cap4_009	MFT	argm_gol_detection			The troops marched toward the fortress at dawn .	fortress	ARGM-GOL	ARG1	False
+cap4	cap4_010	MFT	argm_gol_detection			She climbed onto the roof to fix the antenna .	roof	ARGM-GOL	O	False
+cap4	cap4_011	MFT	argm_gol_detection			They rushed to the hospital after the accident .	hospital	ARGM-GOL	ARG2	False
+cap5	cap5_001a	INV	spray_load_alternation	cap5_001	location_as_object	He loaded the truck with boxes .	boxes	ARG2	ARG2	True
+cap5	cap5_001b	INV	spray_load_alternation	cap5_001	theme_as_object	He loaded boxes into the truck .	boxes	ARG1	ARG1	True
+cap5	cap5_002a	INV	spray_load_alternation	cap5_002	location_as_object	They filled the bottle with water .	water	ARG2	ARG2	True
+cap5	cap5_002b	INV	spray_load_alternation	cap5_002	theme_as_object	They poured water into the bottle .	water	ARG1	ARG1	True
+cap5	cap5_003a	INV	spray_load_alternation	cap5_003	location_as_object	She covered the cake with frosting .	frosting	ARG2	ARG2	True
+cap5	cap5_003b	INV	spray_load_alternation	cap5_003	theme_as_object	She covered frosting onto the cake .	frosting	ARG1	ARG1	True
+cap5	cap5_004a	INV	spray_load_alternation	cap5_004	location_as_object	He packed the suitcase with clothes .	clothes	ARG2	ARG2	True
+cap5	cap5_004b	INV	spray_load_alternation	cap5_004	theme_as_object	He packed clothes into the suitcase .	clothes	ARG1	ARG1	True
+cap5	cap5_005a	INV	spray_load_alternation	cap5_005	location_as_object	They stuffed the pillow with feathers .	feathers	ARG2	ARG2	True
+cap5	cap5_005b	INV	spray_load_alternation	cap5_005	theme_as_object	They stuffed feathers into the pillow .	feathers	ARG1	ARG1	True
+cap5	cap5_006a	INV	spray_load_alternation	cap5_006	location_as_object	She piled the table with books .	books	ARG2	ARGM-LOC	False
+cap5	cap5_006b	INV	spray_load_alternation	cap5_006	theme_as_object	She piled books onto the table .	books	ARG1	ARG1	True
+cap5	cap5_007a	INV	spray_load_alternation	cap5_007	location_as_object	He flooded the garden with water .	water	ARG2	ARG1	False
+cap5	cap5_007b	INV	spray_load_alternation	cap5_007	theme_as_object	He poured water into the garden .	water	ARG1	ARG1	True
+cap5	cap5_008a	INV	spray_load_alternation	cap5_008	location_as_object	She coated the roof with tar .	tar	ARG2	ARG1	False
+cap5	cap5_008b	INV	spray_load_alternation	cap5_008	theme_as_object	She coated tar onto the roof .	tar	ARG1	ARG1	True
+cap5	cap5_009a	INV	spray_load_alternation	cap5_009	location_as_object	They smeared the bread with butter .	butter	ARG2	ARG2	True
+cap5	cap5_009b	INV	spray_load_alternation	cap5_009	theme_as_object	They smeared butter onto the bread .	butter	ARG1	ARG1	True
+cap5	cap5_010a	INV	spray_load_alternation	cap5_010	location_as_object	He sprayed the car with water .	water	ARG2	ARG2	True
+cap5	cap5_010b	INV	spray_load_alternation	cap5_010	theme_as_object	He sprayed water onto the car .	water	ARG1	ARG1	True
+cap6	cap6_001a	INV	entity_substitution	cap6_001	common_name	Alice bought a new car .	Alice	ARG0	ARG0	True
+cap6	cap6_001b	INV	entity_substitution	cap6_001	rare_name	Amara bought a new car .	Amara	ARG0	ARG0	True
+cap6	cap6_002a	INV	entity_substitution	cap6_002	common_name	Microsoft released the new update .	Microsoft	ARG0	ARG0	True
+cap6	cap6_002b	INV	entity_substitution	cap6_002	rare_name	Fenghua released the new update .	Fenghua	ARG0	ARG0	True
+cap6	cap6_003a	INV	entity_substitution	cap6_003	common_name	Sarah cooked a delicious meal .	Sarah	ARG0	ARG0	True
+cap6	cap6_003b	INV	entity_substitution	cap6_003	rare_name	Tariq cooked a delicious meal .	Tariq	ARG0	ARG0	True
+cap6	cap6_004a	INV	entity_substitution	cap6_004	common_name	Tom celebrated their victory .	Tom	ARG0	ARG0	True
+cap6	cap6_004b	INV	entity_substitution	cap6_004	rare_name	Zbigniew celebrated their victory .	Zbigniew	ARG0	ARG0	True
+cap6	cap6_005a	INV	entity_substitution	cap6_005	common_name	Google acquired a small startup .	Google	ARG0	ARG0	True
+cap6	cap6_005b	INV	entity_substitution	cap6_005	rare_name	Weiming acquired a small startup .	Weiming	ARG0	ARG0	True
+cap6	cap6_006a	INV	entity_substitution	cap6_006	common_name	Emma wrote a fascinating book .	Emma	ARG0	ARG0	True
+cap6	cap6_006b	INV	entity_substitution	cap6_006	rare_name	Xiulan wrote a fascinating book .	Xiulan	ARG0	ARG0	True
+cap6	cap6_007a	INV	entity_substitution	cap6_007	common_name	Lucas designed a beautiful garden .	Lucas	ARG0	ARG0	True
+cap6	cap6_007b	INV	entity_substitution	cap6_007	rare_name	Suhaib designed a beautiful garden .	Suhaib	ARG0	ARG0	True
+cap6	cap6_008a	INV	entity_substitution	cap6_008	common_name	Jessica painted a landscape portrait .	Jessica	ARG0	ARG0	True
+cap6	cap6_008b	INV	entity_substitution	cap6_008	rare_name	Przemek painted a landscape portrait .	Przemek	ARG0	ARG0	True
+cap6	cap6_009a	INV	entity_substitution	cap6_009	common_name	Amazon delivered the package quickly .	Amazon	ARG0	ARG0	True
+cap6	cap6_009b	INV	entity_substitution	cap6_009	rare_name	Nourhan delivered the package quickly .	Nourhan	ARG0	ARG0	True
+cap6	cap6_010a	INV	entity_substitution	cap6_010	common_name	David fixed the leaky faucet .	David	ARG0	ARG0	True
+cap6	cap6_010b	INV	entity_substitution	cap6_010	rare_name	Kofi fixed the leaky faucet .	Kofi	ARG0	ARG0	True

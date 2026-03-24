@@ -1,0 +1,31 @@
+capability	test	pair_id	role_a	role_b	sentence_a	sentence_b	target_label	pred_a1_a	pred_a1_b	pass_a1_a	pass_a1_b	consistent_a1	both_wrong_a1	pred_a2_a	pred_a2_b	pass_a2_a	pass_a2_b	consistent_a2	both_wrong_a2
+cap2	voice_alternation	cap2_001	active	passive	The teacher praised the student .	The student was praised by the teacher .	ARG0	ARG0	ARG0	True	True	True	False	ARG0	ARG0	True	True	True	False
+cap2	voice_alternation	cap2_002	active	passive	The manager approved the budget .	The budget was approved by the manager .	ARG0	ARG0	ARG0	True	True	True	False	ARG0	ARG0	True	True	True	False
+cap2	voice_alternation	cap2_003	active	passive	The artist painted a mural .	A mural was painted by the artist .	ARG0	ARG0	ARG0	True	True	True	False	ARG0	ARG0	True	True	True	False
+cap2	voice_alternation	cap2_004	active	passive	The scientist discovered a cure .	A cure was discovered by the scientist .	ARG0	ARG0	ARG0	True	True	True	False	ARG0	ARG0	True	True	True	False
+cap2	voice_alternation	cap2_005	active	passive	The author wrote a novel .	A novel was written by the author .	ARG0	ARG0	ARG0	True	True	True	False	ARG0	ARG0	True	True	True	False
+cap2	voice_alternation	cap2_006	active	passive	The company launched a product .	A product was launched by the company .	ARG0	ARG0	ARG0	True	True	True	False	ARG0	ARG0	True	True	True	False
+cap2	voice_alternation	cap2_007	active	passive	The team won the championship .	The championship was won by the team .	ARG0	ARG0	ARG0	True	True	True	False	ARG0	ARG0	True	True	True	False
+cap2	voice_alternation	cap2_008	active	passive	The director produced a film .	A film was produced by the director .	ARG0	ARG0	ARG0	True	True	True	False	ARG0	ARG0	True	True	True	False
+cap2	voice_alternation	cap2_009	active	passive	The lawyer won the case .	The case was won by the lawyer .	ARG0	ARG0	ARG0	True	True	True	False	ARG0	ARG0	True	True	True	False
+cap2	voice_alternation	cap2_010	active	passive	The engineer designed the bridge .	The bridge was designed by the engineer .	ARG0	ARG1	ARG0	False	True	False	False	ARG0	ARG0	True	True	True	False
+cap5	spray_load_alternation	cap5_001	location_as_object	theme_as_object	He loaded the truck with boxes .	He loaded boxes into the truck .	ARG2	ARG2	ARG1	True	True	False	False	ARG2	ARG1	True	True	False	False
+cap5	spray_load_alternation	cap5_002	location_as_object	theme_as_object	They filled the bottle with water .	They poured water into the bottle .	ARG2	ARG2	ARG1	True	True	False	False	ARG2	ARG1	True	True	False	False
+cap5	spray_load_alternation	cap5_003	location_as_object	theme_as_object	She covered the cake with frosting .	She covered frosting onto the cake .	ARG2	ARG2	ARG1	True	True	False	False	ARG2	ARG1	True	True	False	False
+cap5	spray_load_alternation	cap5_004	location_as_object	theme_as_object	He packed the suitcase with clothes .	He packed clothes into the suitcase .	ARG2	ARG2	ARG1	True	True	False	False	O	ARG1	False	True	False	False
+cap5	spray_load_alternation	cap5_005	location_as_object	theme_as_object	They stuffed the pillow with feathers .	They stuffed feathers into the pillow .	ARG2	ARG2	ARG1	True	True	False	False	ARG2	ARG1	True	True	False	False
+cap5	spray_load_alternation	cap5_006	location_as_object	theme_as_object	She piled the table with books .	She piled books onto the table .	ARG2	ARGM-LOC	ARG1	False	True	False	False	ARG2	ARG1	True	True	False	False
+cap5	spray_load_alternation	cap5_007	location_as_object	theme_as_object	He flooded the garden with water .	He poured water into the garden .	ARG2	ARG1	ARG1	False	True	True	False	ARG2	ARG1	True	True	False	False
+cap5	spray_load_alternation	cap5_008	location_as_object	theme_as_object	She coated the roof with tar .	She coated tar onto the roof .	ARG2	ARG1	ARG1	False	True	True	False	ARG2	ARG1	True	True	False	False
+cap5	spray_load_alternation	cap5_009	location_as_object	theme_as_object	They smeared the bread with butter .	They smeared butter onto the bread .	ARG2	ARG2	ARG1	True	True	False	False	ARG2	ARG1	True	True	False	False
+cap5	spray_load_alternation	cap5_010	location_as_object	theme_as_object	He sprayed the car with water .	He sprayed water onto the car .	ARG2	ARG2	ARG1	True	True	False	False	ARG2	ARG1	True	True	False	False
+cap6	entity_substitution	cap6_001	common_name	rare_name	Alice bought a new car .	Amara bought a new car .	ARG0	ARG0	ARG0	True	True	True	False	ARG0	ARG0	True	True	True	False
+cap6	entity_substitution	cap6_002	common_name	rare_name	Microsoft released the new update .	Fenghua released the new update .	ARG0	ARG0	ARG0	True	True	True	False	ARG0	ARG0	True	True	True	False
+cap6	entity_substitution	cap6_003	common_name	rare_name	Sarah cooked a delicious meal .	Tariq cooked a delicious meal .	ARG0	ARG0	ARG0	True	True	True	False	ARG0	ARG0	True	True	True	False
+cap6	entity_substitution	cap6_004	common_name	rare_name	Tom celebrated their victory .	Zbigniew celebrated their victory .	ARG0	ARG0	ARG0	True	True	True	False	ARG0	ARG0	True	True	True	False
+cap6	entity_substitution	cap6_005	common_name	rare_name	Google acquired a small startup .	Weiming acquired a small startup .	ARG0	ARG0	ARG0	True	True	True	False	ARG0	ARG0	True	True	True	False
+cap6	entity_substitution	cap6_006	common_name	rare_name	Emma wrote a fascinating book .	Xiulan wrote a fascinating book .	ARG0	ARG0	ARG0	True	True	True	False	ARG0	ARG0	True	True	True	False
+cap6	entity_substitution	cap6_007	common_name	rare_name	Lucas designed a beautiful garden .	Suhaib designed a beautiful garden .	ARG0	ARG0	ARG0	True	True	True	False	ARG0	ARG0	True	True	True	False
+cap6	entity_substitution	cap6_008	common_name	rare_name	Jessica painted a landscape portrait .	Przemek painted a landscape portrait .	ARG0	ARG0	ARG0	True	True	True	False	ARG0	ARG0	True	True	True	False
+cap6	entity_substitution	cap6_009	common_name	rare_name	Amazon delivered the package quickly .	Nourhan delivered the package quickly .	ARG0	ARG0	ARG0	True	True	True	False	ARG0	ARG0	True	True	True	False
+cap6	entity_substitution	cap6_010	common_name	rare_name	David fixed the leaky faucet .	Kofi fixed the leaky faucet .	ARG0	ARG0	ARG0	True	True	True	False	ARG0	ARG0	True	True	True	False
